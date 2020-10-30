@@ -1,6 +1,6 @@
-GOAL :
+   GOAL :
       
-        IN THIS PROJECT I WANT TO CALCULATE BODY INDEX MASS(BMI).
+        IN THIS PROJECT I WANT TO CALCULATE BODY MASS INDEX(BMI).
   
        ~~ FOR CALCULATING BMI WE JUST APPLY TWO SIMPLE STEPS
       
@@ -17,3 +17,4 @@ GOAL :
            Normal Range = 18.6 and 24.9
 
            Overweight = Greater than 24.9
+  
