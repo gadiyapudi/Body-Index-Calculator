@@ -10,7 +10,7 @@ GOAL :
         -> AFTER ENTERING ABOVE TWO STEPS IT SHOWS OUR BMI VALUE
           
             
-             BMI Weight Guide :-
+               BMI Weight Guide :- 
 
            Under Weight = Less than 18.6
 
